@@ -14,7 +14,7 @@
 <br>
 <p align="center">
  <img src="https://github.com/flormich/IntentDemo/blob/master/IntentDemo.JPG">
-<br>
+<br><br><br>
   <img src="https://github.com/flormich/IntentDemo/blob/master/IntentDemo2.JPG">
 </p>
 
