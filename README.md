@@ -6,6 +6,14 @@
 
 * Login button
 
+## 💻 Installation
+Clone this reposoitory
+
+```
+git clone  https://github.com/flormich/IntentDemo
+
+```
+
 ## ✨️ Usage
 <br>
 
